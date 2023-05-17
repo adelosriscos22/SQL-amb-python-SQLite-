@@ -1,4 +1,4 @@
-mport sqlite3
+import sqlite3
  
 db_filename = 'database.db'
  
